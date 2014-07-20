@@ -1,0 +1,196 @@
+# THIS FILE IS MACHINE GENERATED - DO NOT EDIT
+# TADS Workbench configuration settings
+
+DebugToolbar:rebarWidth:I:-1
+build:ext resfile cnt:I:0
+build:defaults set:I:1
+src win split:%tads%include\tads.h:S:0:0.000000
+watch win:vis:I:0
+watch win:pos:R:312,778,596,894
+build:image_resources-sys:S:0:user
+build:c ops:I:0
+SearchToolbar:rebarNewLine:I:0
+MenuBar:rebarVis:I:1
+log win pos::R:499,131,1734,1013
+log win vis::I:1
+line wrap:docindex.t:S:0:N
+line wrap:%tads%include\filename.h:S:0:N
+build:charmap:S:0:
+DocToolbar:rebarIndex:I:3
+build:include_files-sys:S:0:system
+build:include_files-sys:S:1:system
+build:include_files-sys:S:2:system
+build:include_files-sys:S:3:system
+build:include_files-sys:S:4:system
+build:include_files-sys:S:5:system
+build:include_files-sys:S:6:system
+build:include_files-sys:S:7:system
+build:include_files-sys:S:8:system
+build:include_files-sys:S:9:system
+build:include_files-sys:S:10:system
+build:include_files-sys:S:11:system
+build:include_files-sys:S:12:system
+build:include_files-sys:S:13:system
+build:include_files-sys:S:14:system
+build:include_files-sys:S:15:system
+build:include_files-sys:S:16:lib
+build:include_files-sys:S:17:system
+build:include_files-sys:S:18:system
+build:include_files-sys:S:19:system
+build:include_files-sys:S:20:lib
+DocToolbar:rebarWidth:I:-1
+DebugToolbar:rebarVis:I:1
+src win selrange:%tads%include\tads.h:S:0:0,0
+src win selrange:%tads%include\tads.h:S:1:0,0
+watch win:expression list 0:S:0:globals.entries
+build:zipfile:S:0:docindex.zip
+watch win:sep xpos 0:I:142
+watch win:sep xpos 1:I:142
+watch win:sep xpos 2:I:142
+build:installer options:S:0:name=docindex
+build:installer options:S:1:savext=docindex
+watch win:sep xpos 3:I:142
+search:start at top:I:0
+src win edit mode:%tads%include\tads.h:S:0:TADS 3
+EditToolbar:rebarNewLine:I:1
+breakpoints:cond-mode:S:0:true
+proj search:exact case:I:0
+DocToolbar:rebarVis:I:1
+src win split:%tads%lib\file.t:S:0:0.000000
+auto-script:quit sequences:S:0:<nocase>[<]line[>]<space>*q(uit)?<space>*
+auto-script:quit sequences:S:1:<nocase>[<]line[>]<space>*y.*
+SearchToolbar:rebarIndex:I:2
+search:wrap:I:1
+auto-script:next-id:I:60
+SearchToolbar:rebarWidth:I:253
+docking config::S:0:CL
+docking config::S:1:W0,263,270,2,752,302,902,D,L,project win
+docking config::S:2:W0,263,150,175,752,345,902,D,L,script win
+docking config::S:3:CB
+docking config::S:4:W3,700,170,304,752,604,902,D,B,watch win
+docking config::S:5:W3,889,170,2,752,302,902,D,B,locals win
+docking config::S:6:W-1,170,170,125,125,1169,694,M,R,help win
+docking config::S:7:W-1,170,170,25,25,1339,634,M,R,log win
+docking config::S:8:W-1,170,170,50,50,1364,659,M,R,stack win
+docking config::S:9:W-1,170,170,200,200,1515,809,M,B,docsearch win
+docking config::S:10:W-1,170,170,225,225,1540,834,M,B,filesearch win
+search:text:S:0:{now}
+search:text:S:1:isBoardable
+locals win:vis:I:0
+locals win:pos:R:10,778,294,894
+main win max::I:0
+proj search:collapse spaces:I:0
+search:exact case:I:0
+build:webpage dir:S:0:web
+mdi win list::S:0::log
+mdi win list::S:1:docindex.t
+mdi win list::S:2::help
+main win pos::R:226,0,1744,1046
+build:srczipfile:S:0:docindexSource.zip
+proj search:whole word:I:0
+src win selrange:%tads%lib\file.t:S:0:0,0
+src win selrange:%tads%lib\file.t:S:1:0,0
+prog_args:file_safety:S:0:02
+help win pos::R:632,286,1660,817
+help win vis::I:1
+build:ignore case:I:0
+build:exe:S:0:docindex.exe
+docsearch win vis::I:0
+docsearch win pos::R:712,400,2011,971
+script win:vis:I:1
+script win:pos:R:236,883,490,1013
+line wrap:%tads%include\tads.h:S:0:N
+build:use charmap:I:0
+EditToolbar:rebarIndex:I:1
+hist win vis::I:0
+EditToolbar:rebarWidth:I:578
+build:include_files:S:0:tads.h
+build:include_files:S:1:t3.h
+build:include_files:S:2:lookup.h
+build:include_files:S:3:systype.h
+build:include_files:S:4:vector.h
+build:include_files:S:5:charset.h
+build:include_files:S:6:bytearr.h
+build:include_files:S:7:tadsgen.h
+build:include_files:S:8:tadsio.h
+build:include_files:S:9:reflect.h
+build:include_files:S:10:strbuf.h
+build:include_files:S:11:file.h
+build:include_files:S:12:filename.h
+build:include_files:S:13:dict.h
+build:include_files:S:14:tok.h
+build:include_files:S:15:gramprod.h
+SearchToolbar:rebarVis:I:1
+MenuBar:rebarNewLine:I:0
+src win edit mode:%tads%lib\file.t:S:0:TADS 3
+src win split:docindex.t:S:0:0.000000
+src win split:%tads%include\filename.h:S:0:0.000000
+proj search:regex:I:0
+locals win:sep xpos 0:I:142
+locals win:sep xpos 1:I:142
+prog_args:args:S:0:
+search:whole word:I:0
+build:debug_image_file:S:0:debug\docindex.t3
+DebugToolbar:rebarNewLine:I:1
+search dlg:old searches:S:0:{now}
+search dlg:old searches:S:1:nothing in mind
+search dlg:old searches:S:2:northing in mind
+search dlg:old searches:S:3:nothing to discuss
+search dlg:old searches:S:4:(Board
+search dlg:old searches:S:5:LookAround
+search dlg:old searches:S:6:PutIn
+search dlg:old searches:S:7:Unlock
+search dlg:old searches:S:8:lookthrough
+search dlg:old searches:S:9:bye
+find dialog:pos:R:1204,280,1648,532
+search dlg:old search opts:S:0:
+search dlg:old search opts:S:1:
+search dlg:old search opts:S:2:
+search dlg:old search opts:S:3:
+search dlg:old search opts:S:4:
+search dlg:old search opts:S:5:
+search dlg:old search opts:S:6:
+search dlg:old search opts:S:7:
+search dlg:old search opts:S:8:
+search dlg:old search opts:S:9:
+src win selrange:docindex.t:S:0:0,0
+src win selrange:docindex.t:S:1:1850,1850
+src win selrange:%tads%include\filename.h:S:0:0,0
+src win selrange:%tads%include\filename.h:S:1:6767,6767
+search:regex:I:0
+mdi tab order::S:0:1,2,0
+build:rlsgam:S:0:docindex.t3
+EditToolbar:rebarVis:I:1
+main win mdi max::I:1
+auto-script:default quit sequences set:I:1
+DocToolbar:rebarNewLine:I:0
+line wrap:%tads%lib\file.t:S:0:N
+src win edit mode:docindex.t:S:0:TADS 3
+src win edit mode:%tads%include\filename.h:S:0:TADS 3
+MenuBar:rebarIndex:I:0
+mdi win title::S:0:
+mdi win title::S:1:docindex.t
+mdi win title::S:2:
+search:dir:I:1
+build:installer prog:S:0:docindex_Setup.exe
+MenuBar:rebarWidth:I:-1
+project win:vis:I:1
+project win:pos:R:236,128,490,857
+auto-script:dir:S:0:Scripts
+stack win vis::I:0
+filesearch win vis::I:0
+stack win pos::R:557,211,1855,782
+filesearch win pos::R:849,466,2148,1037
+DebugToolbar:rebarIndex:I:4
+searchMode::I:2
+search dlg:old repl text:S:0:isBoardable
+search dlg:old repl text:S:1:verifyObjRole(
+search dlg:old repl text:S:2:
+search dlg:old repl text:S:3:NodeContinuationTopic
+search dlg:old repl text:S:4:reportList
+search dlg:old repl text:S:5:NodeActive
+search dlg:old repl text:S:6:setState
+search dlg:old repl text:S:7:endConvActor
+search dlg:old repl text:S:8:endConvLeave
+search dlg:old repl text:S:9:endConvBye
+
